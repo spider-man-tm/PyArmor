@@ -1,10 +1,10 @@
-PyArmor
+PyArmor demonstration
 ====
 
 <br>
 
 ## Overview
-- Blog [[Qiita]](https://qiita.com/Takayoshi_Makabe/items/804a865c2607cdff0624)
+- Blog [[Qiita]](https://qiita.com/Takayoshi_Makabe/items/f38380bd1d097ac9d797)
 
 <br>
 
